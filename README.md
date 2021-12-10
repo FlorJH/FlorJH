@@ -8,7 +8,7 @@ I have discovered that programming is the most effective way in which I can use 
 
 #### 🔭 I am currently working to improve my skills to be a great front-end developer.
 #### 🌱 I’m currently learning React and node.
-#### 
+
 
 #### :toolbox: Toolbox :
 
@@ -16,8 +16,7 @@ I have discovered that programming is the most effective way in which I can use 
 
 ### Stats Card
 
-<p align="center">![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FlorJH&show_icons=true) </p>
-
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=FlorJH&show_icons=true&theme=cobalt"></p>
 
 <!--
 **FlorJH/FlorJH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
