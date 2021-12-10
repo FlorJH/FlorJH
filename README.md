@@ -16,7 +16,7 @@ I have discovered that programming is the most effective way in which I can use 
 
 ### Stats Card
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FlorJH&show_icons=true)
+<p align="center">![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FlorJH&show_icons=true) </p>
 
 
 <!--
