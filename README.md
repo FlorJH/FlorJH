@@ -7,7 +7,7 @@ I have discovered that programming is the most effective way in which I can use 
 
 
 #### 🔭 I am currently working to improve my skills to be a great front-end developer.
-#### 🌱 I’m currently learning React and node.
+#### 🌱 I’m currently learning Angular and RxJS.
 
 
 #### :toolbox: Toolbox :
